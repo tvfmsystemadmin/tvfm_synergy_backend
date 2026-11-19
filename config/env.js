@@ -10,10 +10,12 @@ const toPositive = (value, fallback) => {
   return Number.isFinite(n) && n > 0 ? n : fallback;
 };
 
-// Vite's default dev ports (5173, and 5174 when the admin panel and website run side by side).
+// Always allowed, on top of FRONTEND_URL: the production sites plus the local Vite dev server (port 5173).
 const LOCAL_DEV_ORIGINS = [
   'https://tvfmsynergy.com',
-  'https://admin.tvfmsynergy.com'
+  'https://www.tvfmsynergy.com',
+  'https://admin.tvfmsynergy.com',
+  'http://localhost:5173',
 ];
 
 export const env = {
