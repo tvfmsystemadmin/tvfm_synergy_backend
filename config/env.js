@@ -12,10 +12,8 @@ const toPositive = (value, fallback) => {
 
 // Vite's default dev ports (5173, and 5174 when the admin panel and website run side by side).
 const LOCAL_DEV_ORIGINS = [
-  'http://localhost:5173',
-  'http://localhost:5174',
-  'http://127.0.0.1:5173',
-  'http://127.0.0.1:5174',
+  'https://tvfmsynergy.com',
+  'https://admin.tvfmsynergy.com'
 ];
 
 export const env = {
