@@ -1,0 +1,21 @@
+{
+  "resource": "product-combos",
+  "matchOn": "slug",
+  "items": [
+    {
+      "slug": "hair-care-combo", "name": "Hair Care Combo", "tag": "Hair Care", "order": 1,
+      "description": "Shampoo, conditioner and herbal oil together for complete hair care at home and in the salon.",
+      "products": ["ref:products:slug:essentials-shampoo", "ref:products:slug:essentials-conditioner", "ref:products:slug:ayur-cool-herbal-oil"]
+    },
+    {
+      "slug": "glow-de-tan-combo", "name": "Glow & De-Tan Combo", "tag": "Glow & De-Tan", "order": 2,
+      "description": "Two brightening treatments that work well together for a fresher, more even-looking complexion.",
+      "products": ["ref:products:slug:luxe-d-tan-mask", "ref:products:slug:essentials-d-tan-pack"]
+    },
+    {
+      "slug": "skin-shave-combo", "name": "Skin & Shave Combo", "tag": "Skin & Shave", "order": 3,
+      "description": "A gentle cleansing milk and a precise, comfortable shaving gel in one set for daily grooming.",
+      "products": ["ref:products:slug:luxe-cleansing-milk", "ref:products:slug:luxe-shaving-gel"]
+    }
+  ]
+}

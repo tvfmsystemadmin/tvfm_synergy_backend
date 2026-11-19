@@ -1,0 +1,16 @@
+{
+  "resource": "faqs",
+  "matchOn": "question",
+  "items": [
+    { "question": "Is the software easy to use?", "answer": "Yes. The interface is designed for salon staff, with familiar terms and a simple billing flow.", "pages": ["pos"], "order": 1 },
+    { "question": "Does it support multiple branches?", "answer": "Yes. You can manage several salon branches from one account.", "pages": ["pos"], "order": 2 },
+    { "question": "Is training provided?", "answer": "Yes. Our team guides your staff through the setup and daily use.", "pages": ["pos"], "order": 3 },
+    { "question": "Can it run on mobile and tablet?", "answer": "Yes. The software works on desktop, tablet and mobile devices.", "pages": ["pos"], "order": 4 },
+    { "question": "Do you provide customer support?", "answer": "Yes. Dedicated support is available after setup.", "pages": ["pos"], "order": 5 },
+    { "question": "Can I customize features for my salon?", "answer": "Yes. Features and setup are confirmed with you based on your salon needs.", "pages": ["pos"], "order": 6 },
+    { "question": "How can I get a demo of the POS software?", "answer": "Send us a message using the form, or call us. We will confirm a time for a walkthrough that suits your salon.", "pages": ["contact"], "order": 1 },
+    { "question": "Do you offer training for salon staff?", "answer": "Yes. Our team guides your staff through setup and daily use.", "pages": ["contact"], "order": 2 },
+    { "question": "Do you provide support after purchase?", "answer": "Yes. Dedicated support is available after setup.", "pages": ["contact"], "order": 3 },
+    { "question": "How can I order products?", "answer": "Products are ordered through the Glam Company store. Our team can also help you choose the right products.", "pages": ["contact"], "order": 4 }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "resource": "product-categories",
+  "matchOn": "slug",
+  "items": [
+    { "name": "Hair care", "slug": "hair-care", "order": 1 },
+    { "name": "Skin care", "slug": "skin-care", "order": 2 },
+    { "name": "Shaving & grooming", "slug": "shaving-grooming", "order": 3 }
+  ]
+}

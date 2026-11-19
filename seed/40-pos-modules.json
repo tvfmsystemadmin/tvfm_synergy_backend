@@ -1,0 +1,62 @@
+{
+  "resource": "pos-modules",
+  "matchOn": ["title", "showOnPage"],
+  "items": [
+    { "title": "Dashboard", "description": "Get a complete overview of your business.", "iconName": "chart", "showOnPage": true, "showInDemo": false, "order": 1 },
+    { "title": "Appointments", "description": "Manage bookings and schedules easily.", "iconName": "calendar", "showOnPage": true, "showInDemo": false, "order": 2 },
+    { "title": "Billing & Invoicing", "description": "Fast billing with GST support.", "iconName": "receipt", "showOnPage": true, "showInDemo": false, "order": 3 },
+    { "title": "Inventory Management", "description": "Track products and stock in real-time.", "iconName": "box", "showOnPage": true, "showInDemo": false, "order": 4 },
+    { "title": "Customer Management", "description": "Store customer details and visit history.", "iconName": "users", "showOnPage": true, "showInDemo": false, "order": 5 },
+    { "title": "Staff Management", "description": "Manage staff, roles and commissions.", "iconName": "user", "showOnPage": true, "showInDemo": false, "order": 6 },
+    { "title": "Reports & Analytics", "description": "View detailed business reports and insights.", "iconName": "chart", "showOnPage": true, "showInDemo": false, "order": 7 },
+    { "title": "Multi-Branch Support", "description": "Manage multiple salon branches.", "iconName": "layers", "showOnPage": true, "showInDemo": false, "order": 8 },
+    {
+      "title": "Billing & checkout",
+      "description": "Pick services and products, build the bill and take payment from one screen.",
+      "ask": "Bill a client",
+      "iconName": "receipt",
+      "points": ["Services and products on the same bill", "Clear totals before payment", "Payment method chosen at checkout"],
+      "showOnPage": false, "showInDemo": true, "order": 101
+    },
+    {
+      "title": "Products & inventory",
+      "description": "Keep product details and stock levels in view, so low items are noticed early.",
+      "ask": "Check stock",
+      "iconName": "box",
+      "points": ["Product list with stock status", "Low-stock and reorder visibility", "Stock that follows what you sell"],
+      "showOnPage": false, "showInDemo": true, "order": 102
+    },
+    {
+      "title": "Customer & membership",
+      "description": "Keep client records and membership workflows close to the counter.",
+      "ask": "Find a client",
+      "iconName": "user",
+      "points": ["Client records in one place", "Membership-related workflows", "Start a bill from a client record"],
+      "showOnPage": false, "showInDemo": true, "order": 103
+    },
+    {
+      "title": "Appointments",
+      "description": "Plan the day around your team and your services.",
+      "ask": "Open the day",
+      "iconName": "calendar",
+      "points": ["A day view across your team", "Services placed against time", "Bookings that lead into billing"],
+      "showOnPage": false, "showInDemo": true, "order": 104
+    },
+    {
+      "title": "Reports & visibility",
+      "description": "See sales and daily activity without adding up bills by hand.",
+      "ask": "Read the numbers",
+      "iconName": "chart",
+      "points": ["Daily sales and bill counts", "Average bill value", "A week at a glance"],
+      "showOnPage": false, "showInDemo": true, "order": 105
+    },
+    {
+      "title": "Multi-store operations",
+      "description": "Ask how branches and franchise structures are handled in your setup.",
+      "ask": "Compare branches",
+      "iconName": "store",
+      "points": ["Branch-level view", "One business, several locations", "Setup confirmed with the team"],
+      "showOnPage": false, "showInDemo": true, "order": 106
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "resource": "pos-plans",
+  "matchOn": "name",
+  "items": [
+    { "name": "3 Months Trial", "priceAmount": 99, "currency": "INR", "billingPeriod": "monthly", "extraNote": "", "order": 1 },
+    { "name": "Monthly Package", "priceAmount": 699, "currency": "INR", "billingPeriod": "monthly", "extraNote": "", "order": 2 },
+    { "name": "3 Months Package", "priceAmount": 1799, "currency": "INR", "billingPeriod": "monthly", "extraNote": "", "order": 3 },
+    { "name": "6 Months Package", "priceAmount": 2999, "currency": "INR", "billingPeriod": "monthly", "extraNote": "+ 15 days", "order": 4 },
+    { "name": "Annual Package", "priceAmount": 5999, "currency": "INR", "billingPeriod": "monthly", "extraNote": "+ 2 months", "order": 5 }
+  ]
+}

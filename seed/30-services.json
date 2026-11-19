@@ -1,0 +1,216 @@
+{
+  "resource": "services",
+  "matchOn": "slug",
+  "items": [
+    {
+      "slug": "franchise",
+      "title": "Salon Franchise Model",
+      "chip": "Salon Franchise Model",
+      "pageTitle": "A Proven Model for Salon Growth",
+      "short": "Franchise",
+      "line": "Start or grow your salon with a proven franchise model and a clear set of systems.",
+      "lead": "Open and grow salons with a franchise model built around the space, the products, the POS software and the training each branch needs, so every salon works the same way.",
+      "intro": "A franchise model that brings together the space plan, product range, POS software and training a salon needs, so every branch runs the same way.",
+      "helps": "Consistent salons across locations, with one clear process from planning to opening day.",
+      "points": [
+        "Franchise structure and business planning",
+        "Space planning and launch readiness",
+        "Standard operating procedures for every branch",
+        "Product range and supply support",
+        "POS software set-up for each salon",
+        "Training for owners and staff",
+        "Ongoing review of branch performance",
+        "Support for multi-branch expansion"
+      ],
+      "bullets": [
+        "Franchise structure and business planning",
+        "Standard operating procedures for every branch",
+        "Product, POS and training support for each salon"
+      ],
+      "questions": [
+        "How many salons do you plan to open in the next two years?",
+        "Which city or area do you want to start in?",
+        "What investment and team do you have ready today?"
+      ],
+      "primaryLabel": "Discuss a Franchise",
+      "iconName": "store",
+      "showOnServicesPage": true,
+      "showOnHome": true,
+      "hasDetailPage": true,
+      "order": 1
+    },
+    {
+      "slug": "staff-training",
+      "title": "Salon Staff Training & Skill Development",
+      "chip": "Staff Training",
+      "pageTitle": "Salon Staff Training & Skill Development",
+      "short": "Staff training",
+      "line": "Practical skills, service standards and confidence for every member of your team.",
+      "lead": "Structured training that builds technical skill, client care and daily discipline. Each member of the team learns the service standards, grows in confidence and keeps improving.",
+      "intro": "Structured training that builds technical skill, client care and daily discipline, so each stylist and therapist grows with the salon.",
+      "helps": "A team that serves, greets and bills clients the same way every day.",
+      "points": [
+        "Hair, skin and beauty service skills",
+        "Client greeting and front-desk practice",
+        "Billing and service-standard training",
+        "Skill assessments for each team member",
+        "Learning plans for stylists and therapists",
+        "Refresher sessions for new products",
+        "Team and salon operations learning",
+        "Ongoing support after training"
+      ],
+      "bullets": [
+        "Hair, skin and beauty service skills",
+        "Client greeting, billing and service standards",
+        "Skill assessments and continuous learning plans"
+      ],
+      "questions": [
+        "Which skills does your team need first?",
+        "How should the front desk greet, book and bill a client?",
+        "Who leads the floor when you are away?"
+      ],
+      "primaryLabel": "Plan Staff Training",
+      "iconName": "users",
+      "showOnServicesPage": true,
+      "showOnHome": true,
+      "hasDetailPage": true,
+      "order": 2
+    },
+    {
+      "slug": "digital-marketing",
+      "title": "Digital Marketing for Salons",
+      "chip": "Digital Marketing",
+      "pageTitle": "Digital Marketing for Salons",
+      "short": "Digital marketing",
+      "line": "Get found nearby, keep your salon visible online and bring clients back.",
+      "lead": "Build your salon's brand, attract more customers and grow your online presence with complete digital marketing support tailored for salons, spas and beauty businesses.",
+      "intro": "Your salon deserves to be seen. Our dedicated digital marketing team helps salons build their brand, attract new customers, increase visibility and retain existing clients.",
+      "helps": "More people nearby finding your salon, and a reason for them to come back.",
+      "points": [
+        "Social media management and content planning",
+        "Instagram and Facebook advertising campaigns",
+        "Professional posters, reels and promotional creatives",
+        "Google Business Profile and local visibility",
+        "WhatsApp marketing and customer engagement",
+        "Customer retention and appointment growth strategies",
+        "Offers, seasonal promotions and membership campaigns",
+        "Marketing performance tracking and monthly reports"
+      ],
+      "bullets": [
+        "Social media management and Instagram & Facebook ads",
+        "Creative designing, reels and promotional content",
+        "Google Business Profile, reviews and local visibility",
+        "Offers, festival campaigns, WhatsApp and client retention",
+        "Monthly reports on what is working"
+      ],
+      "questions": [
+        "How do people nearby find your salon today?",
+        "Which services and offers should we promote first?",
+        "What is your monthly marketing budget?"
+      ],
+      "primaryLabel": "Start Marketing",
+      "iconName": "trend",
+      "showOnServicesPage": true,
+      "showOnHome": false,
+      "hasDetailPage": true,
+      "order": 3
+    },
+    {
+      "slug": "salon-website",
+      "title": "Salon Website & E-commerce Development",
+      "chip": "Salon Website & E-commerce",
+      "pageTitle": "E-commerce and Salon Website Development",
+      "short": "Website & e-commerce",
+      "line": "An affordable, mobile-friendly website for your salon, or a complete online shop for your beauty products.",
+      "lead": "Build a professional online presence for your salon or beauty business with modern websites and e-commerce solutions designed to showcase your services, promote products and attract customers.",
+      "intro": "Take your salon or beauty business online with TVFM's affordable website development solutions. We create professional, mobile-friendly websites that showcase your services, attract customers and help grow your business.",
+      "helps": "A professional online home for your salon, or a shop that sells your beauty products online.",
+      "points": [
+        "Professional salon website design and development",
+        "E-commerce websites with online shopping and payments",
+        "Service menus, pricing and product showcases",
+        "Mobile-friendly and customised website designs",
+        "WhatsApp, Google Maps and enquiry integration",
+        "Product management and online store setup",
+        "Website maintenance and technical support",
+        "Ongoing updates and digital growth support"
+      ],
+      "bullets": [
+        "Salon websites with services, price lists, galleries and contact details",
+        "E-commerce websites with shopping cart and payment integration",
+        "Custom, mobile-friendly designs and WhatsApp, Google Maps and enquiry forms",
+        "Website maintenance, product additions and technical support"
+      ],
+      "questions": [
+        "Which services and prices do you want to show?",
+        "Do you have photos of your salon and team?",
+        "How should clients contact or book with you?"
+      ],
+      "primaryLabel": "Get a Website Quote",
+      "iconName": "layers",
+      "showOnServicesPage": true,
+      "showOnHome": true,
+      "hasDetailPage": true,
+      "order": 4
+    },
+    {
+      "slug": "custom-pos",
+      "title": "Custom POS Software for Salons",
+      "chip": "Custom POS Software",
+      "pageTitle": "Custom Built Salon POS Software for Your Business",
+      "short": "Custom POS",
+      "line": "A POS software made for your salon, set up and handed over ready to run, the same way we build a website.",
+      "lead": "Whether you operate a single salon, manage multiple outlets or run a salon franchise, we create scalable, branded software solutions to simplify your business operations and support growth.",
+      "intro": "We create a POS software for your salon, planned around your services, staff and billing, then set it up, load your records and train your team so it is ready to use.",
+      "helps": "A salon that bills, stocks and reports from one system from the first day, with a team that knows how to use it.",
+      "points": [
+        "Smart billing and invoice management",
+        "Appointment and customer management",
+        "Inventory and product tracking",
+        "Staff management and performance reports",
+        "Membership and loyalty programmes",
+        "Multi-branch and franchise management",
+        "Business analytics and sales reports",
+        "Custom features and dedicated technical support"
+      ],
+      "bullets": [
+        "Set up around your services and price list",
+        "Staff logins, roles, commission and GST billing",
+        "Your records imported, with training and support"
+      ],
+      "questions": [
+        "Which services, packages and prices should the POS carry?",
+        "How many staff, branches and billing counters do you run?",
+        "Do you want the POS to connect with your website booking?"
+      ],
+      "primaryLabel": "Request a Custom POS",
+      "iconName": "layers",
+      "showOnServicesPage": true,
+      "showOnHome": true,
+      "hasDetailPage": true,
+      "order": 5
+    },
+    {
+      "slug": "white-label",
+      "title": "Build Your Own Beauty Brand",
+      "chip": "White Label & Private Label",
+      "pageTitle": "Build Your Own Beauty Brand",
+      "lead": "Create your own cosmetic product range with customised private and white label solutions designed for salons, entrepreneurs and beauty businesses. From product selection to formulation, branding and packaging, we support your journey from idea to launch.",
+      "points": [
+        "Cosmetic product selection and customisation",
+        "Customised shampoo, conditioner and skincare formulations",
+        "Private and white label product development",
+        "Professional packaging and label design",
+        "Brand identity and product positioning",
+        "Product range development and launch support",
+        "Strategic brand collaborations and partnerships",
+        "End-to-end product development assistance"
+      ],
+      "primaryLabel": "Start Your Brand",
+      "showOnServicesPage": true,
+      "showOnHome": false,
+      "hasDetailPage": false,
+      "order": 6
+    }
+  ]
+}

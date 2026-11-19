@@ -1,0 +1,73 @@
+{
+  "resource": "brands",
+  "matchOn": "name",
+  "items": [
+    {
+      "name": "LUXE",
+      "tag": "Premium range",
+      "description": "Crafted for luxury salon experiences, our premium range delivers superior quality, exceptional performance, and refined beauty care for professional results.",
+      "bestFor": "premium salons and high-end treatments",
+      "points": [
+        "Designed for a premium finish that guests notice",
+        "Suited to services where the result matters most",
+        "Our team can help you choose items for your service menu"
+      ],
+      "websiteUrl": "",
+      "order": 1,
+      "logo": "asset:brands/luxe.webp",
+      "enabled": true
+    },
+    {
+      "name": "ESSENTIALS",
+      "tag": "Affordable professional range",
+      "description": "Designed for everyday salon needs, our affordable professional range combines reliable quality, effective performance, and excellent value.",
+      "bestFor": "busy salons that need dependable everyday products",
+      "points": [
+        "Practical products for daily services at good value",
+        "Suited to high-volume salons and new salon owners",
+        "Easy to keep stocked across your whole service menu"
+      ],
+      "websiteUrl": "",
+      "order": 2,
+      "logo": "asset:brands/essentials.webp",
+      "enabled": true
+    },
+    {
+      "name": "AYURKUNJ",
+      "tag": "Herbal range",
+      "description": "Enriched with nature-inspired herbal ingredients, our herbal range offers gentle nourishment and holistic care for healthy hair and skin.",
+      "bestFor": "salons that offer natural and herbal care",
+      "points": [
+        "Herbal ingredients for gentle, natural care",
+        "Suited to clients who prefer natural, herbal products",
+        "Ask our team which items suit your scalp and skin services"
+      ],
+      "websiteUrl": "",
+      "order": 3,
+      "logo": "asset:brands/ayurkunj.webp",
+      "enabled": true
+    },
+    {
+      "name": "Glam Company",
+      "tag": "Partner",
+      "description": "",
+      "bestFor": "",
+      "points": [],
+      "websiteUrl": "https://glamcompany.in/",
+      "order": 4,
+      "logo": "asset:brands/glam-company.webp",
+      "enabled": true
+    },
+    {
+      "name": "True Value Gifts",
+      "tag": "Partner",
+      "description": "",
+      "bestFor": "",
+      "points": [],
+      "websiteUrl": "",
+      "order": 5,
+      "logo": "asset:brands/truevaluegifts.webp",
+      "enabled": true
+    }
+  ]
+}

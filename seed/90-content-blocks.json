@@ -1,0 +1,643 @@
+{
+  "resource": "content-blocks",
+  "matchOn": "key",
+  "items": [
+    {
+      "key": "home.slide.1",
+      "page": "home",
+      "order": 1,
+      "alt": "Salon professional with TVFM Synergy salon POS dashboard and Glam Company beauty products",
+      "title": "Smart Salon Solutions for a *Beautiful\nTomorrow*",
+      "body": "TVFM Synergy provides complete salon business solutions\npowerful POS software, professional beauty products, and\nconnected growth through Glam Company.",
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register",
+      "enabled": true
+    },
+    {
+      "key": "home.slide.2",
+      "page": "home",
+      "order": 2,
+      "alt": "TVFM Synergy salon POS software shown on a laptop and phone in a salon",
+      "title": "Run your salon with *smart POS software.*",
+      "body": "Appointments, billing, stock and customer records in one place,\nso you always know how the business is doing.",
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register",
+      "enabled": true
+    },
+    {
+      "key": "home.slide.3",
+      "page": "home",
+      "order": 3,
+      "alt": "Glam Company beauty e-commerce website shown on a laptop and phone",
+      "title": "Shop trusted salon brands at *Glam Company.*",
+      "body": "Our online store for professional salon and beauty products,\nwith a wide range of authentic brands and easy ordering.",
+      "ctaEnabled": true,
+      "ctaText": "Visit Glam Company",
+      "ctaType": "external",
+      "ctaUrl": "https://glamcompany.in/",
+      "enabled": true
+    },
+    {
+      "key": "home.slide.4",
+      "page": "home",
+      "order": 4,
+      "alt": "TVFM LUXE, ESSENTIALS and Ayurkunj professional salon products",
+      "title": "Premium products for *healthy hair and skin.*",
+      "body": "Authentic hair, skin and shaving products for salons,\nchosen with help from our team.",
+      "ctaEnabled": true,
+      "ctaText": "Explore Products",
+      "ctaType": "page",
+      "ctaPage": "/products",
+      "enabled": true
+    },
+    {
+      "key": "home.quick",
+      "page": "home",
+      "items": [
+        "Glam Company | E-Market Place",
+        "POS Software | Salon POS software",
+        "Professional Products | Authentic products"
+      ],
+      "order": 5,
+      "enabled": true
+    },
+    {
+      "key": "home.intro",
+      "page": "home",
+      "eyebrow": "About TVFM Synergy",
+      "title": "About Our\n*TVFM Synergy LLP*",
+      "body": "TVFM Synergy LLP is a complete ecosystem for the salon and beauty industry, built on one principle: **True Value For Money**. With over two decades of experience, we understand the real challenges and aspirations of salon owners, barbers, makeup artists, franchise partners, distributors, educators and beauty brands.\n\nWe turn that insight into smart, reliable and affordable solutions that help businesses run smoothly and grow with confidence.",
+      "ctaEnabled": true,
+      "ctaText": "Explore About",
+      "ctaType": "page",
+      "ctaPage": "/about",
+      "order": 6,
+      "enabled": true
+    },
+    {
+      "key": "home.pos",
+      "page": "home",
+      "eyebrow": "Salon POS software",
+      "title": "Manage your salon business *with ease.*",
+      "body": "A powerful, easy to use POS for salons and beauty businesses. Handle appointments, billing, stock, customer records and reports in one place.",
+      "items": [
+        "Easy Billing & POS",
+        "Smart Inventory Management",
+        "Advanced Customer Management (CRM)",
+        "Profit & Business Reports",
+        "SMS & WhatsApp Marketing",
+        "Membership & Coupon Management",
+        "Smart Appointment Management"
+      ],
+      "order": 7,
+      "enabled": true
+    },
+    {
+      "key": "home.services",
+      "page": "home",
+      "eyebrow": "Our services",
+      "title": "Practical services *around the software.*",
+      "body": "A franchise model, staff training, salon websites and custom POS software, built around our software and products.",
+      "order": 8,
+      "enabled": true
+    },
+    {
+      "key": "home.products",
+      "page": "home",
+      "eyebrow": "Professional beauty products",
+      "title": "Premium beauty products *for professional salons.*",
+      "body": "High-quality products trusted by salons and professionals. Give your customers the best care with authentic and effective products.",
+      "ctaEnabled": true,
+      "ctaText": "Explore products",
+      "ctaType": "page",
+      "ctaPage": "/products",
+      "order": 9,
+      "enabled": true
+    },
+    {
+      "key": "home.brands",
+      "page": "home",
+      "eyebrow": "Our brands",
+      "title": "Brands we bring to *your salon.*",
+      "order": 10,
+      "enabled": true
+    },
+    {
+      "key": "home.glam",
+      "page": "home",
+      "eyebrow": "Glam Company e-commerce",
+      "title": "Shop at *Glam Company*",
+      "body": "Our online shopping destination for professional salon and beauty products. Discover a wide range of authentic products from trusted brands.",
+      "items": [
+        "100% Authentic | Products",
+        "Secure | Shopping",
+        "Wide Range | of Brands",
+        "Fast & Reliable | Delivery"
+      ],
+      "ctaEnabled": true,
+      "ctaText": "Visit Glam Company",
+      "ctaType": "external",
+      "ctaUrl": "https://glamcompany.in/",
+      "order": 11,
+      "enabled": true
+    },
+    {
+      "key": "home.testimonials",
+      "page": "home",
+      "eyebrow": "Testimonials",
+      "title": "What Customers Say",
+      "order": 12,
+      "enabled": true
+    },
+    {
+      "key": "home.blog",
+      "page": "home",
+      "eyebrow": "Our blog",
+      "title": "Latest from Our Blog",
+      "order": 13,
+      "enabled": true
+    },
+    {
+      "key": "about.intro",
+      "page": "about",
+      "title": "About *TVFM Synergy LLP*",
+      "body": "TVFM Synergy LLP is a complete ecosystem for the salon and beauty industry, built on one principle: **True Value For Money**. With over two decades of experience, we understand the real challenges and aspirations of salon owners, barbers, makeup artists, franchise partners, distributors, educators and beauty brands.\n\nWe turn that insight into smart, reliable and affordable solutions that help businesses run smoothly and grow with confidence.",
+      "order": 14,
+      "enabled": true
+    },
+    {
+      "key": "about.overview",
+      "page": "about",
+      "eyebrow": "About TVFM Synergy",
+      "title": "Innovative Solutions\n*for the Salon Industry*",
+      "body": "We provide complete solutions for salon and beauty businesses through powerful POS software, high-quality professional products, and a connected e-commerce platform.",
+      "items": [
+        "Built for real salon business needs",
+        "Innovative and easy-to-use technology",
+        "Authentic and professional salon products",
+        "Dedicated customer support",
+        "Focused on long-term business growth"
+      ],
+      "order": 15,
+      "enabled": true
+    },
+    {
+      "key": "about.parts",
+      "page": "about",
+      "title": "Three parts, one partner",
+      "items": [
+        "Salon POS Software",
+        "Professional Products",
+        "Glam Company E-commerce"
+      ],
+      "order": 16,
+      "enabled": true
+    },
+    {
+      "key": "about.founder",
+      "page": "about",
+      "eyebrow": "Founder & Director",
+      "title": "Meet Our Founder & Director",
+      "items": [
+        "Mrs. Naman, Founder & Director, TVFM Synergy LLP"
+      ],
+      "body": "Guided by Mrs. Naman’s leadership and two decades of industry experience, TVFM Synergy LLP stands for quality, trust and long-term partnerships. Her vision is simple: every salon and beauty business deserves a dependable partner that delivers true value at every step.",
+      "alt": "Mrs. Naman, Founder and Director of TVFM Synergy LLP",
+      "order": 17,
+      "enabled": true
+    },
+    {
+      "key": "about.vision",
+      "page": "about",
+      "title": "Vision",
+      "body": "Build technology-driven commerce ecosystems that simplify business operations and create transparent, efficient marketplaces.",
+      "order": 18,
+      "enabled": true
+    },
+    {
+      "key": "about.mission",
+      "page": "about",
+      "title": "Mission",
+      "body": "Make everyday salon management easier with connected solutions that streamline daily operations, simplify business processes and create a seamless experience for both salon owners and customers.",
+      "order": 19,
+      "enabled": true
+    },
+    {
+      "key": "about.brands",
+      "page": "about",
+      "title": "Our brands",
+      "order": 20,
+      "enabled": true
+    },
+    {
+      "key": "about.closing",
+      "page": "about",
+      "title": "Partner with \nTVFM Synergy LLP",
+      "body": "Discover how TVFM Synergy can help your salon grow with our right technology and products.",
+      "ctaEnabled": true,
+      "ctaText": "Contact US",
+      "ctaType": "page",
+      "ctaPage": "/contact",
+      "order": 21,
+      "enabled": true
+    },
+    {
+      "key": "network.intro",
+      "page": "salon-network",
+      "eyebrow": "Real partners, verified details",
+      "title": "Seven salons use our products.",
+      "body": "We want this directory to represent each salon accurately, with its approved name, location and genuine photography.",
+      "order": 22,
+      "enabled": true
+    },
+    {
+      "key": "network.notice",
+      "page": "salon-network",
+      "title": "Partner profiles are being verified",
+      "body": "We are confirming the names, locations and approved photographs of our partner salons.\n\nWe will not publish invented profiles or stock photos presented as partners. Once a salon is verified, it will appear here with its details.",
+      "ctaEnabled": true,
+      "ctaText": "Contact TVFM Synergy about the network",
+      "ctaType": "page",
+      "ctaPage": "/contact",
+      "order": 23,
+      "enabled": true
+    },
+    {
+      "key": "network.cta",
+      "page": "salon-network",
+      "title": "Interested in working with TVFM Synergy?",
+      "body": "Tell us about your salon or beauty business and what you need.",
+      "ctaEnabled": true,
+      "ctaText": "Contact our team",
+      "ctaType": "page",
+      "ctaPage": "/contact",
+      "order": 24,
+      "enabled": true
+    },
+    {
+      "key": "services.closing",
+      "page": "services",
+      "eyebrow": "Ready to Grow",
+      "title": "Let’s Build a Better Salon Business Together",
+      "body": "Get expert guidance, explore our services, or request a free demo today.",
+      "order": 25,
+      "enabled": true
+    },
+    {
+      "key": "pos.features",
+      "page": "pos",
+      "eyebrow": "Features Overview",
+      "title": "*Everything You Need to Manage and Grow Your Salon All in One Place*",
+      "body": "Simplify your salon operations with TVFM POS, an integrated salon management solution designed to streamline your day-to-day business activities. From appointment scheduling and seamless billing to smart inventory management and comprehensive customer management, TVFM POS brings all your essential business functions together on one user-friendly platform.\n\nManage your staff, monitor business performance, track sales, maintain customer records, and gain better control over your salon operations with ease. By automating routine tasks and providing valuable business insights, TVFM POS helps you save time, improve operational efficiency, enhance customer experiences, and focus on what matters most – growing your business.",
+      "order": 26,
+      "enabled": true
+    },
+    {
+      "key": "pos.demo",
+      "page": "pos",
+      "eyebrow": "Product Demo",
+      "title": "See the Salon POS Software in Action",
+      "body": "Watch how billing, stock, bookings and reports work together on one screen.",
+      "order": 27,
+      "enabled": true
+    },
+    {
+      "key": "pos.modules",
+      "page": "pos",
+      "eyebrow": "Key Modules",
+      "title": "Everything Your Salon Needs",
+      "body": "A complete set of modules designed for salon and beauty businesses.",
+      "order": 28,
+      "enabled": true
+    },
+    {
+      "key": "pos.easy",
+      "page": "pos",
+      "eyebrow": "User Friendly",
+      "title": "Easy and Simple to Use",
+      "body": "Our POS software is designed with a clean and modern interface that is easy for anyone to use. Spend less time on training and more time focusing on your customers.",
+      "items": [
+        "Fast and hassle-free billing",
+        "Real-time stock monitoring.",
+        "Maintain detailed customer records.",
+        "Track business performance",
+        "Manage multiple salon branches",
+        "Secure data encryption"
+      ],
+      "order": 29,
+      "enabled": true
+    },
+    {
+      "key": "pos.why",
+      "page": "pos",
+      "eyebrow": "Why Choose Us",
+      "title": "Why Choose TVFM Synergy POS?",
+      "items": [
+        "Built for Salons | Designed specifically for salon and beauty businesses.",
+        "Trial Pack | 3-months trial pack at just ₹ 99/-",
+        "Better Customer Experience | Complete salon setup and staff training",
+        "Grow Your Business | Get insights and make better business decisions."
+      ],
+      "order": 30,
+      "enabled": true
+    },
+    {
+      "key": "pos.security",
+      "page": "pos",
+      "eyebrow": "Enterprise-Grade Security",
+      "title": "Your Data is *Safe With Us*",
+      "body": "TVFM treats your business data with the highest level of care. Our multi-layered security architecture ensures that your client records, financial data and business insights remain completely private and fully protected at all times.",
+      "items": [
+        "Secure Data Encryption | Protects all data.",
+        "Restricted Access | User ID & password.",
+        "Role-Based Permissions | Access by role.",
+        "Confidentiality Guaranteed | No data sharing.",
+        "Safe Cloud Storage | Protected servers.",
+        "Automatic Backups | Prevent data loss.",
+        "Secure Login Protocols | Block unauthorised access.",
+        "Continuous Monitoring | Detects activity."
+      ],
+      "order": 31,
+      "enabled": true
+    },
+    {
+      "key": "pos.security.quote",
+      "page": "pos",
+      "body": "Your data is encrypted, secured and never shared.",
+      "order": 32,
+      "enabled": true
+    },
+    {
+      "key": "pos.segments",
+      "page": "pos",
+      "eyebrow": "Who It Is For",
+      "title": "Built for Every Kind of *Beauty Business*",
+      "body": "TVFM POS fits independent salons, growing chains, clinics and freelance artists alike.",
+      "items": [
+        "Standalone Salons | Single or multi-location independent salon owners.",
+        "Chains & Franchises | Manage all outlets from one centralised dashboard.",
+        "Clinics & Spas | Beauty aesthetic clinics and wellness spas.",
+        "Makeup Artists | Freelance and studio-based makeup artists."
+      ],
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register",
+      "order": 33,
+      "enabled": true
+    },
+    {
+      "key": "pos.enquiry",
+      "page": "pos",
+      "eyebrow": "Enquire Now",
+      "title": "Enquire About *Salon POS Software*",
+      "body": "Tell us about your salon and we will arrange a free demo of the POS software. The walkthrough covers the parts that matter to your business.",
+      "items": [
+        "Free demo arranged by our team",
+        "Covers billing, stock, bookings and reports",
+        "Support for single and multi-branch salons"
+      ],
+      "order": 34,
+      "enabled": true
+    },
+    {
+      "key": "pos.pricing",
+      "page": "pos",
+      "eyebrow": "Software Pricing",
+      "title": "POS Package *Price List*",
+      "body": "Pick the package that fits your salon. Totals include 18% GST.",
+      "order": 35,
+      "enabled": true
+    },
+    {
+      "key": "pos.included",
+      "page": "pos",
+      "title": "Included with every plan",
+      "items": [
+        "No hidden charges",
+        "Free installation support",
+        "Training included",
+        "Regular software updates",
+        "Dedicated customer support"
+      ],
+      "order": 36,
+      "enabled": true
+    },
+    {
+      "key": "pos.steps",
+      "page": "pos",
+      "title": "How to subscribe",
+      "items": [
+        "Choose the package that suits your salon.",
+        "Send your details through the enquiry form."
+      ],
+      "order": 37,
+      "enabled": true
+    },
+    {
+      "key": "pos.testimonials",
+      "page": "pos",
+      "eyebrow": "Testimonials",
+      "title": "What Salon Owners Say",
+      "order": 38,
+      "enabled": true
+    },
+    {
+      "key": "pos.faq",
+      "page": "pos",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "order": 39,
+      "enabled": true
+    },
+    {
+      "key": "pos.closing",
+      "page": "pos",
+      "title": "Ready to Transform Your Salon Business?",
+      "body": "Get a free demo of our POS software and see how it can help your salon grow and operate more efficiently.",
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register",
+      "order": 40,
+      "enabled": true
+    },
+    {
+      "key": "products.intro",
+      "page": "products",
+      "eyebrow": "Our Products",
+      "title": "Our *Product Range*",
+      "body": "Professional products from LUXE, ESSENTIALS and Ayurkunj. Select any product to order it on the Glam Company store.",
+      "order": 41,
+      "enabled": true
+    },
+    {
+      "key": "products.offer",
+      "page": "products",
+      "alt": "TVFM combo offer, Rs 3,999. Premium skincare and haircare collection.",
+      "order": 42,
+      "enabled": true
+    },
+    {
+      "key": "products.combos",
+      "page": "products",
+      "eyebrow": "Combo Packs",
+      "title": "Combo packs *are available now*",
+      "body": "Our products come together in ready-made combo packs for hair, skin and shaving care. Order any pack on the Glam Company store.",
+      "order": 43,
+      "enabled": true
+    },
+    {
+      "key": "products.distributors",
+      "page": "products",
+      "eyebrow": "Distributors",
+      "title": "Interested in Becoming a *Distributor in India?*",
+      "body": "This section is only for distributors. If you would like to sell the LUXE, ESSENTIALS and Ayurkunj range in your area, share your details and our team will contact you about the next steps.",
+      "items": [
+        "Authentic products | A tested range from LUXE, ESSENTIALS and Ayurkunj.",
+        "Support from our team | Product details, ordering and questions answered directly.",
+        "Terms agreed first | Scope and terms are confirmed with you before you start."
+      ],
+      "order": 44,
+      "enabled": true
+    },
+    {
+      "key": "products.why",
+      "page": "products",
+      "eyebrow": "Why Choose Our Products",
+      "title": "Why Choose TVFM Synergy for *Salon Products*",
+      "body": "We provide authentic, high-quality products to help salons deliver the best service experience to their customers.",
+      "items": [
+        "Authentic Products | 100% genuine and trusted quality.",
+        "Wide Product Range | Everything for hair, skin and salon care.",
+        "Shop Online | Order easily through the Glam Company store.",
+        "Expert Guidance | Our team helps you choose the right products."
+      ],
+      "order": 45,
+      "enabled": true
+    },
+    {
+      "key": "products.closing",
+      "page": "products",
+      "title": "Need Help Choosing the Right Products?",
+      "body": "Get expert recommendations for your salon based on your business needs and customer requirements.",
+      "ctaEnabled": true,
+      "ctaText": "Talk to Our Expert",
+      "ctaType": "page",
+      "ctaPage": "/contact",
+      "order": 46,
+      "enabled": true
+    },
+    {
+      "key": "blogs.latest",
+      "page": "blogs",
+      "eyebrow": "Latest Articles",
+      "title": "Latest from *Our Blog*",
+      "order": 47,
+      "enabled": true
+    },
+    {
+      "key": "blogs.closing",
+      "page": "blogs",
+      "title": "Want to see how this applies to your salon?",
+      "body": "Talk to our team about POS software, services or products for your business.",
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register",
+      "order": 48,
+      "enabled": true
+    },
+    {
+      "key": "contact.form",
+      "page": "contact",
+      "eyebrow": "Send a Message",
+      "title": "Tell Us About *Your Needs*",
+      "body": "Fill out the form and we will get back to you as soon as possible.",
+      "order": 49,
+      "enabled": true
+    },
+    {
+      "key": "contact.visit",
+      "page": "contact",
+      "title": "Visit Our Office",
+      "body": "Monday to Saturday, 9:00 AM to 6:00 PM",
+      "order": 50,
+      "enabled": true
+    },
+    {
+      "key": "contact.faq",
+      "page": "contact",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked *Questions*",
+      "order": 51,
+      "enabled": true
+    },
+    {
+      "key": "footer.about",
+      "page": "global",
+      "body": "Salon POS software and practical services for salon and beauty businesses, from the first chair to the final bill.",
+      "order": 52,
+      "enabled": true
+    },
+    {
+      "key": "menu.start",
+      "page": "global",
+      "title": "Start here",
+      "body": "Talk to us about salon POS software or our professional products.",
+      "order": 53,
+      "enabled": true
+    },
+    {
+      "key": "privacy.collect",
+      "page": "privacy",
+      "title": "What this website collects",
+      "body": "This website does not ask you to create an account and does not run advertising or analytics trackers. Forms are sent only when you press the send button.",
+      "order": 56,
+      "enabled": true
+    },
+    {
+      "key": "privacy.pos",
+      "page": "privacy",
+      "title": "Salon POS registration",
+      "body": "The registration form on the POS page asks for your name, salon name, mobile number, email address, city, number of branches and any requirements you add. When you submit it, the details are emailed to our team so we can contact you about Salon POS, and we use them for that purpose only.",
+      "order": 57,
+      "enabled": true
+    },
+    {
+      "key": "privacy.enquiry",
+      "page": "privacy",
+      "title": "When you send an enquiry",
+      "body": "When you send the contact form, we receive your name, email address, phone number, the enquiry type and your message, by email. We use these only to reply to you and to follow up on what you asked about.",
+      "order": 58,
+      "enabled": true
+    },
+    {
+      "key": "privacy.third",
+      "page": "privacy",
+      "title": "Third-party content",
+      "body": "Some pictures on this website may be delivered by an outside image service. When your browser loads them, that service can see standard connection details such as your IP address and browser type, as with any image on the web.",
+      "order": 59,
+      "enabled": true
+    },
+    {
+      "key": "privacy.choices",
+      "page": "privacy",
+      "title": "Your choices",
+      "body": "You can ask us what we hold about you, ask us to correct it, or ask us to delete it. Write to us at the address below and we will respond.",
+      "order": 60,
+      "enabled": true
+    },
+    {
+      "key": "privacy.contact",
+      "page": "privacy",
+      "title": "Contact for privacy requests",
+      "order": 61,
+      "enabled": true
+    }
+  ]
+}

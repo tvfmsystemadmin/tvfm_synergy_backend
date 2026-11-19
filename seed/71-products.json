@@ -1,0 +1,62 @@
+{
+  "resource": "products",
+  "matchOn": "slug",
+  "items": [
+    {
+      "slug": "luxe-d-tan-mask", "name": "LUXE D-Tan Mask", "brand": "LUXE",
+      "tagline": "Advanced Herbal De-Tan & Brightening Care",
+      "storeUrl": "https://glamcompany.in/product/69ae8de3c39ec360f6d1ae5c",
+      "category": "ref:product-categories:slug:skin-care", "order": 1,
+      "description": "Reveal clearer, brighter skin with the TVFM Luxe D-Tan Mask, a powerful salon-grade treatment formulated to reduce tan, detoxify, and restore your skin's natural radiance. Enriched with a potent blend of clove, eucalyptus, camphor, alpha arbutin, glutathione, and Centella asiatica, this advanced formula works deep within the skin to cleanse, purify, and visibly brighten dull, sun-exposed skin. Its rich, creamy texture helps draw out impurities, reduce pigmentation, and even out skin tone, leaving the skin refreshed, smooth, and glowing. Ideal for regular salon treatments or at-home skincare routines, it provides instant rejuvenation and long-lasting brightness."
+    },
+    {
+      "slug": "essentials-d-tan-pack", "name": "ESSENTIALS D-Tan Pack", "brand": "ESSENTIALS",
+      "tagline": "Advanced Brightening & Tan Removal Care",
+      "storeUrl": "https://glamcompany.in/product/6a841676d0292bd9bd50f300",
+      "category": "ref:product-categories:slug:skin-care", "order": 2,
+      "description": "Restore your skin's natural glow with the TVFM Essentials D-Tan Pack, an advanced botanical-based formula designed to effectively reduce tanning, brighten dull skin, and refresh tired complexions. Enriched with powerful active ingredients like Kojic Acid, Alpha Arbutin, Clove Oil, Geranium Oil, and Peppermint Oil, this professional skincare treatment helps detoxify and rejuvenate the skin while promoting an even skin tone. Its rich and soothing texture works deep into the skin to remove impurities, reduce pigmentation caused by sun exposure, and leave the skin feeling soft, refreshed, and radiant. Perfect for salon treatments and regular skincare routines, this D-Tan Pack delivers visible freshness and brightness after every use."
+    },
+    {
+      "slug": "ayur-cool-herbal-cooling-oil", "name": "Ayur Cool Herbal Cooling Oil", "brand": "AYURKUNJ",
+      "tagline": "Nourish. Cool. Revitalize.",
+      "storeUrl": "https://glamcompany.in/product/69c2846124cae7a28d4ce0ba",
+      "category": "ref:product-categories:slug:hair-care", "order": 3,
+      "description": "Experience the goodness of traditional Ayurvedic care with Coco Ayur Herbal Coconut Hair Oil. Crafted with a nourishing blend of coconut oil and potent herbs like Brahmi and Jatamansi, this lightweight yet deeply conditioning oil helps strengthen hair from root to tip. Designed to support scalp health and promote naturally healthy, shiny hair, it is ideal for regular use on all hair types. The precision nozzle bottle ensures easy application directly to the scalp, making your hair care routine simple and effective."
+    },
+    {
+      "slug": "ayur-cool-herbal-oil", "name": "Ayur Cool Herbal Oil", "brand": "AYURKUNJ",
+      "tagline": "Nourish. Cool. Revitalize.",
+      "storeUrl": "https://glamcompany.in/product/69c128f424cae7a28d4c5d81",
+      "category": "ref:product-categories:slug:hair-care", "order": 4,
+      "description": "Experience the soothing power of traditional Ayurveda with Ayurkunj Ayur Cool Herbal Oil. Expertly formulated with a blend of 11 classic Ayurvedic herbs, this nourishing oil is designed to provide a refreshing cooling effect while promoting overall scalp and hair health. Its lightweight, non-sticky formula penetrates deep into the scalp, helping to relieve stress, reduce heat, and support stronger, healthier hair. Perfect for daily use, this herbal oil revitalizes tired roots, enhances hair texture, and leaves your scalp feeling calm and refreshed. The precision nozzle bottle ensures easy application directly to the scalp without mess or wastage."
+    },
+    {
+      "slug": "essentials-shampoo", "name": "ESSENTIALS Shampoo", "brand": "ESSENTIALS",
+      "tagline": "Stronger Roots Healthier Hair",
+      "storeUrl": "https://glamcompany.in/product/69aea959c39ec360f6d1bbfa",
+      "category": "ref:product-categories:slug:hair-care", "order": 5,
+      "description": "Discover professional hair care with the TVFM Essentials Shampoo, a high-performance formula crafted to cleanse, strengthen, and revitalize hair from the roots. Enriched with Biotin, Keratin, and Saw Palmetto this advanced shampoo supports healthier-looking, fuller, and more resilient hair with every wash. Designed for salon-quality results, it gently removes impurities, excess oil, and product buildup without stripping natural moisture. The fortifying blend helps improve hair strength, reduce breakage, and enhance overall scalp health, leaving hair feeling refreshed, soft, and manageable."
+    },
+    {
+      "slug": "essentials-conditioner", "name": "ESSENTIALS Conditioner", "brand": "ESSENTIALS",
+      "tagline": "Soft Smooth Strong",
+      "storeUrl": "https://glamcompany.in/product/69aeacaac39ec360f6d1bdc8",
+      "category": "ref:product-categories:slug:hair-care", "order": 6,
+      "description": "Elevate your hair care routine with the TVFM Essentials Conditioner, a premium salon-grade formula designed to deeply nourish, repair, and protect all hair types. Enriched with the soothing essence of sandalwood, strengthening Ceramide NP, and intensely moisturizing shea butter, this conditioner works from root to tip to restore softness, shine, and manageability. Its advanced conditioning system helps repair damaged hair fibers, reduce frizz, and improve overall hair texture leaving hair smooth, silky, and easy to style. Ideal for daily salon use as well as at-home care, it provides long-lasting hydration while maintaining scalp balance."
+    },
+    {
+      "slug": "luxe-cleansing-milk", "name": "LUXE Cleansing Milk", "brand": "LUXE",
+      "tagline": "Purify. Nourish. Glow.",
+      "storeUrl": "https://glamcompany.in/product/69ae7b54c39ec360f6d1a5f0",
+      "category": "ref:product-categories:slug:skin-care", "order": 7,
+      "description": "Indulge your skin in gentle luxury with TVFM Luxe Cleansing Milk, a premium formula crafted to cleanse, hydrate, and refresh without stripping the skin's natural balance. Infused with the goodness of rice water, brightening niacinamide, & deeply hydrating hyaluronic acid, this cleansing milk effectively removes dirt, impurities, and light makeup while nourishing the skin. Its silky, lightweight texture glides effortlessly, leaving the skin feeling soft, supple, and revitalized after every use. Designed for professional salon use as well as daily skincare routines, it promotes a clearer, more radiant complexion."
+    },
+    {
+      "slug": "luxe-shaving-gel", "name": "LUXE Shaving Gel", "brand": "LUXE",
+      "tagline": "Transparent Gel for Precision Perfection",
+      "storeUrl": "https://glamcompany.in/product/69ae8445c39ec360f6d1a9dd",
+      "category": "ref:product-categories:slug:shaving-grooming", "order": 8,
+      "description": "Achieve a precise, smooth shave with TVFM Luxe Non-Foaming Shaving Gel, specially formulated for clarity, control, and skin comfort. Its transparent gel texture allows for accurate beard shaping and detailing, making it ideal for professional grooming and precision styling. Enriched with soothing aloe vera, hydrating glycerine, and refreshing cucumber extract, this gentle formula helps protect the skin from irritation, razor burns, and dryness. It provides excellent glide for the razor while maintaining skin hydration, leaving the skin calm, soft, and refreshed after every shave."
+    }
+  ]
+}

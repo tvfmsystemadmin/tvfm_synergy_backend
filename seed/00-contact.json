@@ -1,0 +1,45 @@
+{
+  "resource": "contact",
+  "item": {
+    "phones": [
+      {
+        "label": "Main",
+        "display": "+91 99406 58115",
+        "href": "+919940658115"
+      },
+      {
+        "label": "Mobile 2",
+        "display": "+91 96006 02093",
+        "href": "+919600602093"
+      },
+      {
+        "label": "Mobile 3",
+        "display": "+91 94459 74943",
+        "href": "+919445974943"
+      }
+    ],
+    "emails": [
+      {
+        "label": "Admin",
+        "address": "tvfmsynergyllp@tvfmsynergy.com"
+      },
+      {
+        "label": "POS",
+        "address": "pos@tvfmsynergy.com"
+      },
+      {
+        "label": "Products",
+        "address": "glamcare@glamcompany.in"
+      }
+    ],
+    "addressLines": [
+      "No. 91, 4th Ave, VGN Oval Garden",
+      "Vanagaram Main Road, Ambattur",
+      "Chennai – 600058"
+    ],
+    "description": "TVFM Synergy LLP empowers entrepreneurs from the salon, beauty products with end to end solutions.",
+    "mapUrl": "",
+    "whatsappNumber": "919940658115",
+    "socialLinks": []
+  }
+}

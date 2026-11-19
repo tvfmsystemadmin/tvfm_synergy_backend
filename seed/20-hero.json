@@ -1,0 +1,74 @@
+{
+  "resource": "hero",
+  "matchOn": "pageKey",
+  "items": [
+    {
+      "pageKey": "services",
+      "heading": "Complete Salon Business\n*Growth & Digital Solutions*",
+      "subtitle": "Our Services",
+      "description": "At TVFM Synergy, we provide end-to-end solutions for salon and beauty businesses, from powerful POS software and professional products to expert support and growth consulting.",
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Consultation",
+      "ctaType": "page",
+      "ctaPage": "/contact"
+    },
+    {
+      "pageKey": "pos",
+      "heading": "All-in-One *Salon POS Software*",
+      "subtitle": "Salon POS Software",
+      "description": "Simplify your salon operations, improve customer experience, and grow your business with our powerful and easy-to-use Salon POS software.",
+      "ctaEnabled": true,
+      "ctaText": "Get a Free Demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register"
+    },
+    {
+      "pageKey": "products",
+      "heading": "Premium Beauty Products for *Professional Salons.*",
+      "subtitle": "LUXE · ESSENTIALS · Ayurkunj",
+      "description": "Authentic, high-quality salon and beauty products for hair, skin,\nshaving and everyday care. Order easily on Glam Company.",
+      "ctaEnabled": true,
+      "ctaText": "Shop All Products",
+      "ctaType": "external",
+      "ctaUrl": "https://glamcompany.in/"
+    },
+    {
+      "pageKey": "about",
+      "heading": "Transforming Salon Businesses\n*for a Better Tomorrow*",
+      "subtitle": "Our Story",
+      "description": "TVFM Synergy is a salon technology and beauty solutions company committed to empowering salon businesses with innovative software, professional products, and continuous support for real growth."
+    },
+    {
+      "pageKey": "contact",
+      "heading": "Let's Talk\nAbout Your *Salon Business*",
+      "subtitle": "Get in Touch",
+      "description": "Questions about our POS software, professional products, Glam Company store or anything else? Our team will get back to you shortly.",
+      "ctaEnabled": true,
+      "ctaText": "Book a free demo",
+      "ctaType": "page",
+      "ctaPage": "/pos#register"
+    },
+    {
+      "pageKey": "blogs",
+      "heading": "Insights, Tips & Trends\nfor the *Salon Industry*",
+      "subtitle": "Our Blog",
+      "description": "Expert tips, product guides, business strategies and industry trends to help your salon grow."
+    },
+    {
+      "pageKey": "salon-network",
+      "heading": "Our salon network",
+      "subtitle": "",
+      "description": "Our salon relationships connect professional products with the people who use them every day.",
+      "ctaEnabled": true,
+      "ctaText": "Talk to our team",
+      "ctaType": "page",
+      "ctaPage": "/contact"
+    },
+    {
+      "pageKey": "privacy",
+      "heading": "Privacy notice",
+      "subtitle": "Legal",
+      "description": "How TVFM Synergy LLP handles the details you share through this website."
+    }
+  ]
+}

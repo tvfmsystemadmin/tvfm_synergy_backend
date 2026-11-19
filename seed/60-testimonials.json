@@ -1,0 +1,15 @@
+{
+  "resource": "testimonials",
+  "matchOn": "content",
+  "items": [
+    { "customerName": "Priya", "designation": "Salon Owner", "content": "The POS software is easy to use and has helped us manage daily salon operations more smoothly. The team has been helpful whenever we needed support.", "pages": ["home"], "order": 1 },
+    { "customerName": "Karthik", "designation": "Salon Owner", "content": "The product range makes it easier to find professional beauty essentials for our customers. We appreciate having products and business support in one place.", "pages": ["home"], "order": 2 },
+    { "customerName": "Meena", "designation": "Salon Owner", "content": "TVFM Synergy brings software, products and guidance together. Having a team to contact when we need help makes a real difference.", "pages": ["home"], "order": 3 },
+    { "customerName": "Priya", "designation": "Salon Owner, Chennai", "content": "Their POS software and products have really helped our business grow. Highly recommended!", "pages": ["services"], "order": 1 },
+    { "customerName": "Karthik", "designation": "Salon Owner, Coimbatore", "content": "Excellent products and professional service. TVFM Synergy is a trusted partner.", "pages": ["services"], "order": 2 },
+    { "customerName": "Meena", "designation": "Salon Owner, Salem", "content": "We use their POS software and products in our salon. The team is very responsive and supportive.", "pages": ["services"], "order": 3 },
+    { "customerName": "Priya", "designation": "Salon Owner", "content": "The POS software is very easy to use and has improved our daily operations. Great support from the TVFM team.", "pages": ["pos"], "order": 1 },
+    { "customerName": "Karthik", "designation": "Salon Owner", "content": "The inventory and billing features save us a lot of time. Highly recommended for salon businesses.", "pages": ["pos"], "order": 2 },
+    { "customerName": "Meena", "designation": "Salon Owner", "content": "TVFM Synergy gives complete support and guidance. It has really helped our business grow.", "pages": ["pos"], "order": 3 }
+  ]
+}
