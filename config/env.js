@@ -10,26 +10,28 @@ const toPositive = (value, fallback) => {
   return Number.isFinite(n) && n > 0 ? n : fallback;
 };
 
-// Always allowed, on top of FRONTEND_URL: the production sites plus the local Vite dev server (port 5173).
-const LOCAL_DEV_ORIGINS = [
+const isProd = process.env.NODE_ENV === 'production';
+
+// Always allowed, on top of FRONTEND_URL: the production sites. The local Vite dev server (port 5173)
+// is added only outside production (NODE_ENV !== 'production').
+const DEFAULT_ORIGINS = [
   'https://tvfmsynergy.com',
   'https://www.tvfmsynergy.com',
-  'https://admin.tvfmsynergy.com',
-  'http://localhost:5173',
+  ...(isProd ? [] : ['http://localhost:5173']),
 ];
 
 export const env = {
   port: toPositive(process.env.PORT, 5000),
-  isProd: process.env.NODE_ENV === 'production',
+  isProd,
   mongoUri: process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/tvfm_synergy',
   jwtSecret: process.env.JWT_SECRET || '',
   // Sites allowed to call the API: the comma-separated FRONTEND_URL list, e.g.
   // FRONTEND_URL=https://tvfmsynergy.com,https://admin.tvfmsynergy.com
-  // plus the local Vite dev servers, so a developer's machine can always use this API.
+  // plus DEFAULT_ORIGINS above.
   frontendUrls: [
     ...new Set([
       ...(process.env.FRONTEND_URL || '').split(','),
-      ...LOCAL_DEV_ORIGINS,
+      ...DEFAULT_ORIGINS,
     ].map((url) => url.trim().replace(/\/+$/, '')).filter(Boolean)),
   ],
   // Set to 1 when the API runs behind one proxy (Nginx, a hosting platform). Without it every visitor
