@@ -15,7 +15,12 @@ export const env = {
   isProd: process.env.NODE_ENV === 'production',
   mongoUri: process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/tvfm_synergy',
   jwtSecret: process.env.JWT_SECRET || '',
-  frontendUrl: process.env.FRONTEND_URL || '',
+  // Comma-separated list of sites allowed to call the API, e.g.
+  // FRONTEND_URL=https://tvfmsynergy.com,https://admin.tvfmsynergy.com,http://localhost:5173
+  frontendUrls: (process.env.FRONTEND_URL || '')
+    .split(',')
+    .map((url) => url.trim().replace(/\/+$/, ''))
+    .filter(Boolean),
   // Set to 1 when the API runs behind one proxy (Nginx, a hosting platform). Without it every visitor
   // appears to come from the proxy's IP, so the enquiry and login rate limits would be shared by everyone.
   trustProxy: toPositive(process.env.TRUST_PROXY, 0),

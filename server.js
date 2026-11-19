@@ -20,7 +20,17 @@ export function createApp() {
   app.disable('x-powered-by');
   if (env.trustProxy) app.set('trust proxy', env.trustProxy);
   app.use('/api', helmet({ crossOriginResourcePolicy: { policy: 'cross-origin' } }));
-  if (env.frontendUrl) app.use('/api', cors({ origin: env.frontendUrl, credentials: true }));
+  if (env.frontendUrls.length) {
+    app.use(
+      '/api',
+      cors({
+        // Requests with no Origin (server-to-server, curl, same-origin GETs) are let through; browsers
+        // from sites not in FRONTEND_URL just get no CORS headers, so they are blocked without a 500 error.
+        origin: (origin, cb) => cb(null, !origin || env.frontendUrls.includes(origin)),
+        credentials: true,
+      }),
+    );
+  }
   app.use(express.json({ limit: '4mb' }));
   app.use(cookieParser());
   app.use(
